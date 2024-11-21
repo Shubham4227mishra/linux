@@ -7,4 +7,6 @@ traceroute
 tracepath
 nestat
 whoami
+uname -a 
+telnet
 
