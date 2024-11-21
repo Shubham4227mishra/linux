@@ -12,4 +12,7 @@ telnet
 ip 
 ifconfig
 
+vmstat
+wget
+
 
