@@ -10,6 +10,6 @@ whoami
 uname -a 
 telnet
 ip 
-ifconfi
+ifconfig
 
 
