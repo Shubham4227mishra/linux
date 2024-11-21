@@ -9,4 +9,7 @@ nestat
 whoami
 uname -a 
 telnet
+ip 
+ifconfi
+
 
