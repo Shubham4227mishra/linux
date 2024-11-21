@@ -16,4 +16,6 @@ vmstat
 wget
 ip addr show 
 iptable
+whoami
+
 
